@@ -7,4 +7,4 @@ Integrantes:
 - Emanuel Yano
 - Keven Costa
 - Laura Ludgero
-
+- Gustavo Kikey
