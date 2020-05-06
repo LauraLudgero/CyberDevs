@@ -1,0 +1,93 @@
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <title> Healt+ </title>
+    <link rel="stylesheet" type="text/css" href="estiloSobreNos.css" /> <!--faz o conccao com o arquivo estilo.css-->
+
+
+</head>
+<body> <!-- aqui fica o conteudo do site-->
+<div id = "inteface">
+ 
+        <header id = "cabecalho">
+            <nav id="menu">
+                <h1>Sobre Nos</h1>
+                <ul>
+                    <!-- lista nao numerada || <ol> lista ordenada 1,2,...n"-->
+                    <li> <a href="index.html">Inicio</a></li> <!--ites da lista-->
+                    <li> <a href="index.html">Nossos Produtos</a></li>
+                    <li> <a href="SobreNos.html">Sobre Nos</a></li>
+                </ul>
+            </nav>
+
+        <img id="icone" src="imagem1.jpg" />
+        </header>
+
+    <figure class="foto-legenda">
+        <img src="image.jpg" />
+        <figcaption>
+            <p>Conheça a</p>
+            <p1>Health+</p1>
+        </figcaption>
+    </figure>
+    <nav id="conteudo"> 
+
+        <h1> Hitória </h1>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+            aliqua. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. A erat nam at lectus urna duis
+            convallis convallis. Mollis aliquam ut porttitor leo. Purus in mollis nunc sed id semper risus. Eget gravida cum
+            sociis natoque penatibus et magnis dis parturient. Euismod in pellentesque massa placerat. Cursus sit amet dictum
+            sit amet justo donec. Amet aliquam id diam maecenas ultricies mi eget mauris pharetra. Elementum eu facilisis sed
+            odio. Nullam ac tortor vitae purus faucibus. Dolor purus non enim praesent. Arcu cursus vitae congue mauris rhoncus.
+            Magna etiam tempor orci eu lobortis elementum nibh. Orci phasellus egestas tellus rutrum tellus pellentesque eu
+            tincidunt. Diam vel quam elementum pulvinar
+        </p>
+
+        <p1>
+            Facilitar e ampliar o acesso à saúde, beleza e bem-estar, por meio de produtos, serviços e iniciativas, com a
+            máxima integração entre os parceiros, colaboradores e clientes.
+        </p1>
+
+        <p2>
+            Inovação, iniciativa, paixão, excelência, lucratividade, ética, responsabilidade social e ambiental, bem-estar
+            de clientes e colaboradores
+        </p2>
+
+        <p3>
+            Ser a melhor rede de drogarias e a marca mais admirada pela excelência de seu trabalho.
+        </p3>
+
+
+
+        <figure class="foto-valores">
+         <img src="imagem2-removebg-preview.png" />
+        </figure>
+
+    </nav>  
+
+    <footer id = "rodapepe">
+        <nav id = pe>
+
+        </nav>
+
+    </footer>
+
+    <footer id = final>
+        <nav id = pe>
+            <p>
+                Copyright © 2020 | CyberDevs
+            </p>
+
+           <!-- <figure class="foto-icones">
+                <img src="insta.png" />
+            </figure> -->
+        </nav>
+    
+    </footer>
+
+
+</div>
+</body>
+</html>
